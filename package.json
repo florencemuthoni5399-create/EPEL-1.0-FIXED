@@ -1,0 +1,1 @@
+{"name":"synthepel-r75","version":"2.1.0","private":true,"main":"bot.js","scripts":{"start":"node bot.js"},"engines":{"node":">=18"},"dependencies":{"ws":"^8.18.0"}}
